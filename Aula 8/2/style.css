@@ -1,0 +1,16 @@
+/* Seletor universal */
+* {
+  font-family: cursive;
+}
+/* Seletor de elemento */
+body {
+  background-color: lightgray;
+}
+/* Seletor de id */
+#t2 {
+  color: blue;
+}
+/* Seletor de class */
+.parag {
+  background-color: white;
+}
