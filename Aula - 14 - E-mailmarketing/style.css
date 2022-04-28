@@ -1,0 +1,43 @@
+@font-face {
+  font-family: montserrat;
+  src: url("fonts/Montserrat.ttf");
+}
+
+@font-face {
+  font-family: montserratbold;
+  src: url("fonts/Montserratbold.ttf");
+}
+body {
+  font-family: montserrat;
+  text-align: center;
+  margin: 0;
+}
+
+#texto {
+  padding: 30px;
+}
+
+#card {
+  width: 100%;
+}
+
+h4 {
+  margin: 40px 0;
+}
+
+p {
+  margin: 40px 0;
+}
+
+a {
+  color: green;
+}
+
+#email {
+  margin-top: 50px;
+}
+
+#green {
+  color: green;
+  font-family: montserratbold;
+}
