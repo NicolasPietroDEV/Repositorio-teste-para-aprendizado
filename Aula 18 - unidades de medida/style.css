@@ -1,0 +1,28 @@
+body {
+  background-color: green;
+  text-align: justify;
+  margin:0;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#retangulo {
+  height: 100px;
+  width: 70%;
+  background-color: rgb(62, 165, 62);
+}
+
+#retangulo2 {
+    height: 100px;
+  width: 300px;
+  background-color: rgb(62, 165, 62);
+}
+
+#retangulointerno {
+    height: 100px;
+  width: 200px;
+  background-color: rgb(38, 4, 233);
+}

@@ -1,0 +1,14 @@
+#div {
+  background-color: green;
+  color: red;
+}
+
+.div {
+  background-color: yellow;
+  color: black;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
