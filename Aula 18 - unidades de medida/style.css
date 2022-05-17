@@ -1,7 +1,7 @@
 body {
   background-color: green;
   text-align: justify;
-  margin:0;
+  margin: 0;
 }
 
 h1 {
@@ -16,13 +16,52 @@ h1 {
 }
 
 #retangulo2 {
-    height: 100px;
+  height: 100px;
   width: 300px;
   background-color: rgb(62, 165, 62);
 }
 
 #retangulointerno {
-    height: 100px;
+  height: 100px;
   width: 200px;
   background-color: rgb(38, 4, 233);
+}
+
+#retangulo2 {
+  height: 100px;
+  width: 200px;
+  background-color: rgb(2, 77, 2);
+}
+
+.retangulo3 {
+  margin: 6px;
+  height: 50px;
+  width: 200px;
+  background-color: rgb(38, 4, 233);
+}
+
+#porcent {
+  margin: 6px;
+  height: 50px;
+  width: 50%;
+  background-color: rgb(2, 77, 2);
+}
+#vw {
+  margin: 6px;
+  height: 50px;
+  width: 50vw;
+  background-color: rgb(2, 77, 2);
+}
+
+#vh {
+  margin: 6px;
+  height: 50px;
+  width: 50vh;
+  background-color: rgb(2, 77, 2);
+}
+
+#preto {
+  width: 300px;
+  height: 125px;
+  background-color: black;
 }
